@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\csandrade\\Desktop\\Projetos\\Challange\\Entities\\Entities.csproj": {}
+    "C:\\dev\\Challenge\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\csandrade\\Desktop\\Projetos\\Challange\\Entities\\Entities.csproj": {
+    "C:\\dev\\Challenge\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\csandrade\\Desktop\\Projetos\\Challange\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\dev\\Challenge\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\csandrade\\Desktop\\Projetos\\Challange\\Entities\\Entities.csproj",
+        "projectPath": "C:\\dev\\Challenge\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\csandrade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\csandrade\\Desktop\\Projetos\\Challange\\Entities\\obj\\",
+        "outputPath": "C:\\dev\\Challenge\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\csandrade\\Desktop\\Projetos\\Challange\\Entities\\Entities.csproj",
-      "projectName": "Entities",
-      "projectPath": "C:\\Users\\csandrade\\Desktop\\Projetos\\Challange\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Services.csproj",
+      "projectName": "EmployeeTurim.Services",
+      "projectPath": "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Services.csproj",
       "packagesPath": "C:\\Users\\csandrade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\csandrade\\Desktop\\Projetos\\Challange\\Entities\\obj\\",
+      "outputPath": "C:\\dev\\Challenge\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

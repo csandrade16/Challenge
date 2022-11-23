@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\csandrade\\Desktop\\Projetos\\Challange\\EmployeedTurim,Api\\EmployeeTurim.Api.csproj",
+      "projectUniqueName": "C:\\dev\\Challenge\\EmployeedTurim,Api\\EmployeeTurim.Api.csproj",
       "projectName": "EmployeeTurim.Api",
-      "projectPath": "C:\\Users\\csandrade\\Desktop\\Projetos\\Challange\\EmployeedTurim,Api\\EmployeeTurim.Api.csproj",
+      "projectPath": "C:\\dev\\Challenge\\EmployeedTurim,Api\\EmployeeTurim.Api.csproj",
       "packagesPath": "C:\\Users\\csandrade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\csandrade\\Desktop\\Projetos\\Challange\\EmployeedTurim,Api\\obj\\",
+      "outputPath": "C:\\dev\\Challenge\\EmployeedTurim,Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeTurim.Api", "Employ
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmployeeTurim", "EmployeeTurim", "{D829D569-25CE-467E-9934-E37AF4871399}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeTurim.Services", "Entities\EmployeeTurim.Services.csproj", "{FCF29150-19DF-4D6F-8FB2-F149DF88B206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeTurim.Service", "Entities\EmployeeTurim.Service.csproj", "{FCF29150-19DF-4D6F-8FB2-F149DF88B206}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - APIs", "1 - APIs", "{41482E25-D538-456F-A00D-16844CDE6200}"
 EndProject

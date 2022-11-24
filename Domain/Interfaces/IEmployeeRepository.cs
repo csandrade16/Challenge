@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeTurim.Domain.Interfaces
 {
-public interface IEmployeeRepository
+    public interface IEmployeeRepository
     {
         Task<List<Employee>> GetAllEmployees();
         Task<List<Employee>> CreateManyEmployees(List<Employee> employees);

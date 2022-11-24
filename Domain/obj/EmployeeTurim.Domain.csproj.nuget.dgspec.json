@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Services.csproj": {
-                "projectPath": "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Services.csproj"
+              "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Service.csproj": {
+                "projectPath": "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Service.csproj"
               }
             }
           }
@@ -82,12 +82,12 @@
         }
       }
     },
-    "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Services.csproj": {
+    "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Services.csproj",
-        "projectName": "EmployeeTurim.Services",
-        "projectPath": "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Services.csproj",
+        "projectUniqueName": "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Service.csproj",
+        "projectName": "EmployeeTurim.Service",
+        "projectPath": "C:\\dev\\Challenge\\Entities\\EmployeeTurim.Service.csproj",
         "packagesPath": "C:\\Users\\csandrade\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\Challenge\\Entities\\obj\\",
         "projectStyle": "PackageReference",
@@ -122,6 +122,20 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

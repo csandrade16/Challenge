@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uNEPNHsOpiKiLzAbH4rbPtQh1dg3f6xYq+6igCKPU22rXZVyv9i3dFcF7AK+TCX8f1ZVGIHIDRP9XJ3h/mk1Hg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Challenge\\EmployeedTurim,Api\\EmployeeTurim.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\csandrade\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\csandrade\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\csandrade\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\csandrade\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\csandrade\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\csandrade\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

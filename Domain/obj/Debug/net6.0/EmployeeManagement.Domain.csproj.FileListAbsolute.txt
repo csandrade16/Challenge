@@ -1,0 +1,14 @@
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\bin\Debug\net6.0\EmployeeManagement.Domain.deps.json
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\bin\Debug\net6.0\EmployeeManagement.Domain.dll
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\bin\Debug\net6.0\EmployeeManagement.Domain.pdb
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.Resources.Messages.resources
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.csproj.GenerateResource.cache
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.AssemblyInfo.cs
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.dll
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\obj\Debug\net6.0\refint\EmployeeManagement.Domain.dll
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\obj\Debug\net6.0\EmployeeManagement.Domain.pdb
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Domain\obj\Debug\net6.0\ref\EmployeeManagement.Domain.dll

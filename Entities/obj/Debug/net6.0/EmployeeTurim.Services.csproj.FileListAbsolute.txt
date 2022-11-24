@@ -1,5 +1,0 @@
-C:\dev\Challenge\Entities\obj\Debug\net6.0\EmployeeTurim.Services.csproj.AssemblyReference.cache
-C:\dev\Challenge\Entities\obj\Debug\net6.0\EmployeeTurim.Services.GeneratedMSBuildEditorConfig.editorconfig
-C:\dev\Challenge\Entities\obj\Debug\net6.0\EmployeeTurim.Services.AssemblyInfoInputs.cache
-C:\dev\Challenge\Entities\obj\Debug\net6.0\EmployeeTurim.Services.AssemblyInfo.cs
-C:\dev\Challenge\Entities\obj\Debug\net6.0\EmployeeTurim.Services.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\bin\Debug\net6.0\EmployeeManagement.Service.deps.json
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\bin\Debug\net6.0\EmployeeManagement.Service.dll
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\bin\Debug\net6.0\EmployeeManagement.Service.pdb
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\bin\Debug\net6.0\EmployeeManagement.Domain.dll
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\bin\Debug\net6.0\EmployeeManagement.Repository.dll
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\bin\Debug\net6.0\EmployeeManagement.Repository.pdb
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\bin\Debug\net6.0\EmployeeManagement.Domain.pdb
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\obj\Debug\net6.0\EmployeeManagement.Service.csproj.AssemblyReference.cache
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\obj\Debug\net6.0\EmployeeManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\obj\Debug\net6.0\EmployeeManagement.Service.AssemblyInfoInputs.cache
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\obj\Debug\net6.0\EmployeeManagement.Service.AssemblyInfo.cs
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\obj\Debug\net6.0\EmployeeManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\obj\Debug\net6.0\EmployeeManagement.Service.csproj.CopyComplete
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\obj\Debug\net6.0\EmployeeManagement.Service.dll
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\obj\Debug\net6.0\refint\EmployeeManagement.Service.dll
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\obj\Debug\net6.0\EmployeeManagement.Service.pdb
+C:\Users\csandrade\Downloads\StoneChallenge-mongo\StoneChallenge-main\Employee.Service\obj\Debug\net6.0\ref\EmployeeManagement.Service.dll

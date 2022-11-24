@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AeYjS5jgyUKfP835y71OygspsvEsglVR0BE8QEHMENX5M0Vh9g+3YDFfLY4unJAPlGZOuoVVs6yXlitkSoVRRw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Challenge\\ProfitSharing.Infrastructure\\ProfitSharing.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\csandrade\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

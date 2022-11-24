@@ -1,13 +1,8 @@
 ﻿using Microsoft.VisualBasic;
 using ProfitSharing.Domain.DTOs;
 using ProfitSharing.Domain.Interfaces;
-using ProfitSharing.Domain.Resources;
-using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using static ProfitSharing.Domain.Enums.Enum;
 
 namespace ProfitSharing.Service
@@ -16,16 +11,16 @@ namespace ProfitSharing.Service
     {
         private readonly IEmployeeTurimClient _employeeTurimClient;
 
-        public ProfitSharingService(IEmployeeTurimClient employeeManagementClient)
+        public ProfitSharingService(IEmployeeTurimClient employeeTurimClient)
         {
-            _employeeTurimClient = employeeManagementClient;
+            _employeeTurimClient = employeeTurimClient;
         }
 
         public async Task<ProfitSharingResultDTO> CalculateProfitSharing(decimal availableSum)
         {
             List<EmployeeDTO> employees = await _employeeTurimClient.GetAllEmployees();
             if(employees == null)
-                throw new Exception(Messages.EXC001);
+                throw new Exception();
 
             List<ProfitSharingProfileDTO> profitSharingProfileList = CreateProfitSharinfProfile(employees);
             ProfitSharingResultDTO profitSharingResultDTO = CalculateTotalToShare(profitSharingProfileList, availableSum);
@@ -62,32 +57,32 @@ namespace ProfitSharing.Service
         {
             switch (employee.Area)
             {
-                case EmployeeArea.BoardOfDirectors:
+                case EmployeeArea.Diretoria:
                     profitSharingProfile.AreaWeight = 1;
                     break;
-                case EmployeeArea.Accountability:
+                case EmployeeArea.Contabilidade:
                     profitSharingProfile.AreaWeight = 2;
                     break;
-                case EmployeeArea.Finance:
-                    profitSharingProfile.AreaWeight = 2;
-                    break;
-                case EmployeeArea.Technology:
-                    profitSharingProfile.AreaWeight = 2;
-                    break;
-                case EmployeeArea.GeneralServices:
+                ///case EmployeeArea.Financeiro:
+                ///    profitSharingProfile.AreaWeight = 2;
+                ///    break;
+                ///case EmployeeArea.Tecnologia:
+                ///    profitSharingProfile.AreaWeight = 2;
+                ///    break;
+                case EmployeeArea.ServicosGerais:
                     profitSharingProfile.AreaWeight = 3;
                     break;
-                case EmployeeArea.CustomerRelations:
+                case EmployeeArea.RelacaoCliente:
                     profitSharingProfile.AreaWeight = 5;
                     break;
                 default:
-                    throw new Exception("Erro ao mapear a area dos funcionarios");
+                    throw new Exception("Erro ao mapear a área informada");
             }
         }
 
         private void CalculateIndividualSalaryWeight(ProfitSharingProfileDTO profitSharingProfile, EmployeeDTO employee)
         {
-            decimal minimumWage = 1100.00M;
+            decimal minimumWage = 1000.00M;
 
             if (profitSharingProfile.IsIntern == true || (employee.Salary <= (minimumWage * 3)))
                 profitSharingProfile.SalaryWeight = 1;
@@ -117,7 +112,7 @@ namespace ProfitSharing.Service
                 profitSharingProfile.TimeWeight = 3;
 
             else if (yearsUntilNow > 8)
-                profitSharingProfile.TimeWeight = 5;
+                profitSharingProfile.TimeWeight = 4;
 
         }
 

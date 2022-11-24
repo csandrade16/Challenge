@@ -1,13 +1,8 @@
 ﻿using ProfitSharing.Domain.DTOs;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProfitSharing.Domain.Interfaces
 {
-    public interface IEmployeeManagementClient
+    public interface IEmployeeTurimClient
     {
         Task<List<EmployeeDTO>> GetAllEmployees();
      }

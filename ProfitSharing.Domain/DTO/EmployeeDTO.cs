@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.Json.Serialization;
-using System.Threading.Tasks;
+﻿using System.Text.Json.Serialization;
 using static ProfitSharing.Domain.Enums.Enum;
 
 namespace ProfitSharing.Domain.DTOs
@@ -20,8 +15,8 @@ namespace ProfitSharing.Domain.DTOs
         public EmployeeArea Area { get; set; }
         [JsonPropertyName("role")]
         public string Role { get; set; }
-        [JsonPropertyName("grossSalary")]
-        public decimal GrossSalary { get; set; }
+        [JsonPropertyName("salary")]
+        public decimal Salary { get; set; }
         [JsonPropertyName("admissionDate")]
         public DateTime AdmissionDate { get; set; }
     }

@@ -1,12 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
 using ProfitSharing.Domain.DTOs;
-using System;
 using ProfitSharing.Domain.Interfaces;
-using System.Collections.Generic;
-using System.Net.Http;
 using System.Text.Json;
-using System.Threading;
-using System.Threading.Tasks;
 
 namespace ProfitSharing.Infrastructure.Integrations.Clients
 {
@@ -35,7 +30,7 @@ namespace ProfitSharing.Infrastructure.Integrations.Clients
             }
             catch (Exception e)
             {
-                _logger.LogError(e, $"Não foi possivel conectar com a EmployeeManagementAPI");
+                _logger.LogError(e, $"Não foi possivel conectar com a EmployeeTurimAPI");
                 return null;
             }
         }

@@ -29,22 +29,22 @@ namespace EmployeeTurim.Api.ModelMappers
                 switch (employeeJSON.Area)
                 {
                     case "DIRETORIA":
-                        employee.Area = EmployeeArea.Diretoria;
+                        employee.Area = EmployeeArea.BoardOfDirectors;
                         break;
                     case "CONTABILIDADE":
-                        employee.Area = EmployeeArea.Contabilidade;
+                        employee.Area = EmployeeArea.Accountability;
                         break;
                     case "FINANCEIRO":
-                        employee.Area = EmployeeArea.Financeiro;
+                        employee.Area = EmployeeArea.Technology;
                         break;
                     case "TECNOLOGIA":
-                        employee.Area = EmployeeArea.Tecnologia;
+                        employee.Area = EmployeeArea.Finance;
                         break;
                     case "SERVIÇOSGERAIS":
-                        employee.Area = EmployeeArea.ServicosGerais;
+                        employee.Area = EmployeeArea.GeneralServices;
                         break;
                     case "RELACIONAMENTOCOMOCLIENTE":
-                        employee.Area = EmployeeArea.RelacaoCliente;
+                        employee.Area = EmployeeArea.CustomerRelations;
                         break;
                     default:
                         throw new Exception();

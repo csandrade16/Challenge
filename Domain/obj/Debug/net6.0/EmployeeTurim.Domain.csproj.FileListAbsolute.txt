@@ -1,0 +1,12 @@
+C:\dev\Challenge\Domain\bin\Debug\net6.0\EmployeeTurim.Domain.deps.json
+C:\dev\Challenge\Domain\bin\Debug\net6.0\EmployeeTurim.Domain.dll
+C:\dev\Challenge\Domain\bin\Debug\net6.0\EmployeeTurim.Domain.pdb
+C:\dev\Challenge\Domain\obj\Debug\net6.0\EmployeeTurim.Domain.csproj.AssemblyReference.cache
+C:\dev\Challenge\Domain\obj\Debug\net6.0\EmployeeTurim.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Challenge\Domain\obj\Debug\net6.0\EmployeeTurim.Domain.AssemblyInfoInputs.cache
+C:\dev\Challenge\Domain\obj\Debug\net6.0\EmployeeTurim.Domain.AssemblyInfo.cs
+C:\dev\Challenge\Domain\obj\Debug\net6.0\EmployeeTurim.Domain.csproj.CoreCompileInputs.cache
+C:\dev\Challenge\Domain\obj\Debug\net6.0\EmployeeTurim.Domain.dll
+C:\dev\Challenge\Domain\obj\Debug\net6.0\refint\EmployeeTurim.Domain.dll
+C:\dev\Challenge\Domain\obj\Debug\net6.0\EmployeeTurim.Domain.pdb
+C:\dev\Challenge\Domain\obj\Debug\net6.0\ref\EmployeeTurim.Domain.dll

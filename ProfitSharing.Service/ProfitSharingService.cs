@@ -78,16 +78,16 @@ namespace ProfitSharing.Service
                     profitSharingProfile.AreaWeight = 3;
                     break;
                 case EmployeeArea.CustomerRelations:
-                    profitSharingProfile.AreaWeight = 5;
+                    profitSharingProfile.AreaWeight = 4;
                     break;
                 default:
-                    throw new Exception("Erro ao mapear a area dos funcionarios");
+                    throw new Exception("Erro ao identificar a área");
             }
         }
 
         private void CalculateIndividualSalaryWeight(ProfitSharingProfileDTO profitSharingProfile, EmployeeDTO employee)
         {
-            decimal minimumWage = 1100.00M;
+            decimal minimumWage = 1000.00M;
 
             if (profitSharingProfile.IsIntern == true || (employee.GrossSalary <= (minimumWage * 3)))
                 profitSharingProfile.SalaryWeight = 1;

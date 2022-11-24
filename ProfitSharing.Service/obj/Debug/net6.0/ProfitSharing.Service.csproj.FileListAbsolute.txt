@@ -1,0 +1,17 @@
+C:\dev\Challenge\ProfitSharing.Service\bin\Debug\net6.0\ProfitSharing.Service.deps.json
+C:\dev\Challenge\ProfitSharing.Service\bin\Debug\net6.0\ProfitSharing.Service.dll
+C:\dev\Challenge\ProfitSharing.Service\bin\Debug\net6.0\ProfitSharing.Service.pdb
+C:\dev\Challenge\ProfitSharing.Service\bin\Debug\net6.0\ProfitSharing.Domain.dll
+C:\dev\Challenge\ProfitSharing.Service\bin\Debug\net6.0\ProfitSharing.Infrastructure.dll
+C:\dev\Challenge\ProfitSharing.Service\bin\Debug\net6.0\ProfitSharing.Domain.pdb
+C:\dev\Challenge\ProfitSharing.Service\bin\Debug\net6.0\ProfitSharing.Infrastructure.pdb
+C:\dev\Challenge\ProfitSharing.Service\obj\Debug\net6.0\ProfitSharing.Service.csproj.AssemblyReference.cache
+C:\dev\Challenge\ProfitSharing.Service\obj\Debug\net6.0\ProfitSharing.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Challenge\ProfitSharing.Service\obj\Debug\net6.0\ProfitSharing.Service.AssemblyInfoInputs.cache
+C:\dev\Challenge\ProfitSharing.Service\obj\Debug\net6.0\ProfitSharing.Service.AssemblyInfo.cs
+C:\dev\Challenge\ProfitSharing.Service\obj\Debug\net6.0\ProfitSharing.Service.csproj.CoreCompileInputs.cache
+C:\dev\Challenge\ProfitSharing.Service\obj\Debug\net6.0\ProfitSharing.Service.csproj.CopyComplete
+C:\dev\Challenge\ProfitSharing.Service\obj\Debug\net6.0\ProfitSharing.Service.dll
+C:\dev\Challenge\ProfitSharing.Service\obj\Debug\net6.0\refint\ProfitSharing.Service.dll
+C:\dev\Challenge\ProfitSharing.Service\obj\Debug\net6.0\ProfitSharing.Service.pdb
+C:\dev\Challenge\ProfitSharing.Service\obj\Debug\net6.0\ref\ProfitSharing.Service.dll

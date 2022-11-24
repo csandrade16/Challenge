@@ -38,7 +38,7 @@ namespace EmployeeTurim.Api.ModelMappers
                         employee.Area = EmployeeArea.Financeiro;
                         break;
                     case "TECNOLOGIA":
-                        employee.Area = EmployeeArea.Tecnilogia;
+                        employee.Area = EmployeeArea.Tecnologia;
                         break;
                     case "SERVIÇOSGERAIS":
                         employee.Area = EmployeeArea.ServicosGerais;

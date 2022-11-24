@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmployeeTurim.Api.props" />
+</Project>

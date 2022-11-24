@@ -22,8 +22,8 @@ namespace EmployeeTurim.Api.ModelMappers
                 employee.Name = employeeJSON.Name;
                 employee.Position = employeeJSON.Role;
                 employee.AdmissionDate = employeeJSON.AdmissionDate.Date;
-                employeeJSON.GrossSalary = Regex.Replace(employeeJSON.GrossSalary, @"[R$ .]", "");
-                employee.Salary = Convert.ToDecimal(Regex.Replace(employeeJSON.GrossSalary, @"[,]", "."));
+                employeeJSON.Salary = Regex.Replace(employeeJSON.Salary, @"[R$ .]", "");
+                employee.Salary = Convert.ToDecimal(Regex.Replace(employeeJSON.Salary, @"[,]", "."));
                 employeeJSON.Area = Regex.Replace(employeeJSON.Area, @"\s", "").ToUpper();
 
                 switch (employeeJSON.Area)

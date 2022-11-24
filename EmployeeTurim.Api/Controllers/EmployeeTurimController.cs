@@ -12,10 +12,10 @@ using System.Threading.Tasks;
 
 namespace EmployeeTurim.Api.Controllers
 {
-
-    [ApiVersion("1.0")]
-    [Route("api/v{version:apiVersion}/[controller]")]
     [ApiController]
+  
+    [Route("api/v{version:apiVersion}/[controller]")]
+    [ApiVersion("1.0")]
     public class EmployeeTurimController : ControllerBase
     {
         private readonly IEmployeeService _employeeService;

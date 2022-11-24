@@ -20,10 +20,10 @@ namespace EmployeeTurim.Api.ResquestJSONs
         [JsonPropertyName("cargo")]
         public string Role { get; set; }
 
-        [JsonPropertyName("salario_bruto")]
-        public string GrossSalary { get; set; }
+        [JsonPropertyName("salario")]
+        public string Salary { get; set; }
 
-        [JsonPropertyName("data_de_admissao")]
+        [JsonPropertyName("dataadmissao")]
         public DateTime AdmissionDate { get; set; }
     }
 }

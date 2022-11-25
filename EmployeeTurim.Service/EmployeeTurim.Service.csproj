@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Domain\EmployeeTurim.Domain.csproj" />
-    <ProjectReference Include="..\Repository\EmployeeTurim.Repository.csproj" />
+    <ProjectReference Include="..\EmployeeTurim.Domain\EmployeeTurim.Domain.csproj" />
+    <ProjectReference Include="..\EmployeeTurim.Repository\EmployeeTurim.Repository.csproj" />
   </ItemGroup>
 
 </Project>

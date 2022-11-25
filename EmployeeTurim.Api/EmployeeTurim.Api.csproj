@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Domain\EmployeeTurim.Domain.csproj" />
+    <ProjectReference Include="..\EmployeeTurim.Domain\EmployeeTurim.Domain.csproj" />
     <ProjectReference Include="..\Service\EmployeeTurim.Service.csproj" />
   </ItemGroup>
 

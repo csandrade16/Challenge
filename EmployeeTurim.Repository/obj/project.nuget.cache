@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PJ6eHfu2CwwKf1ipFPrJ+f0aG2nIKXR904uLdTDC2k6SlDhYbpEShqOrRilvFM1rSelKSBWVc4D0k4NMmI7i0w==",
+  "dgSpecHash": "xfEyfRM5GvmoDLFu2gZ60EkvGyfN0u5S8ezR33VgnFU+guZ8bpx0uijtH1tcpEHlPy/kL7ciL7V2z2xP4P/ibQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Challenge\\Repository\\EmployeeTurim.Repository.csproj",
+  "projectFilePath": "C:\\dev\\Challenge\\EmployeeTurim.Repository\\EmployeeTurim.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\csandrade\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\csandrade\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",

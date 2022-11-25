@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lj4oPaP5VLF51MSFzCoC/ZjSXsfjaN6G1RW6nVbGQQWZJj2IA8RI5h7k82XPfseBxRJXhV1gP/aoIlOP0IhZsg==",
+  "dgSpecHash": "GtWLBDaI0nhZUHWPJCUgSJaqszrOgp5Jz67kHvEP7eflvG0GIF5ewUsF2RalX4mqp35NOpBVcru++uwDVJThYA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Challenge\\Service\\EmployeeTurim.Service.csproj",
+  "projectFilePath": "C:\\dev\\Challenge\\EmployeeTurim.Service\\EmployeeTurim.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\csandrade\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\csandrade\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

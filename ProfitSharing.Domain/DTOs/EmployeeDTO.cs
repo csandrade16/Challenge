@@ -19,7 +19,7 @@ namespace ProfitSharing.Domain.DTOs
         [JsonPropertyName("area")]
         public EmployeeArea Area { get; set; }
         [JsonPropertyName("role")]
-        public string Role { get; set; }
+        public string Position { get; set; }
         [JsonPropertyName("grossSalary")]
         public decimal GrossSalary { get; set; }
         [JsonPropertyName("admissionDate")]

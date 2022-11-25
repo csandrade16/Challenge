@@ -20,7 +20,7 @@ namespace EmployeeTurim.Api.ModelMappers
                 Employee employee = new Employee();
                 employee.RegistrationNumber = employeeJSON.RegistrationNumber;
                 employee.Name = employeeJSON.Name;
-                employee.Position = employeeJSON.Role;
+                employee.Position = employeeJSON.Position;
                 employee.AdmissionDate = employeeJSON.AdmissionDate.Date;
                 employeeJSON.Salary = Regex.Replace(employeeJSON.Salary, @"[R$ .]", "");
                 employee.Salary = Convert.ToDecimal(Regex.Replace(employeeJSON.Salary, @"[,]", "."));

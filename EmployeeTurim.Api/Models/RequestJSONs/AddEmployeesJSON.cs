@@ -18,7 +18,7 @@ namespace EmployeeTurim.Api.ResquestJSONs
         public string Area { get; set; }
 
         [JsonPropertyName("cargo")]
-        public string Role { get; set; }
+        public string Position { get; set; }
 
         [JsonPropertyName("salario")]
         public string Salary { get; set; }

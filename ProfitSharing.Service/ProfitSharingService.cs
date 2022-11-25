@@ -42,8 +42,8 @@ namespace ProfitSharing.Service
                 ProfitSharingProfileDTO profitSharingProfile = new ProfitSharingProfileDTO();
 
                 profitSharingProfile.Name = employee.Name;
-                employee.Role = Regex.Replace(employee.Role, @"\s", "").ToUpper();
-                if (employee.Role == "ESTAGIARIO" || employee.Role == "ESTAGIÁRIO")
+                employee.Position = Regex.Replace(employee.Position, @"\s", "").ToUpper();
+                if (employee.Position == "ESTAGIARIO" || employee.Position == "ESTAGIÁRIO")
                 {
                     profitSharingProfile.IsIntern = true;
                 }

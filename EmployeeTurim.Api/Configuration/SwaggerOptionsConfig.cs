@@ -25,13 +25,7 @@ namespace EmployeeTurim.Api.Configuration
         public static IApplicationBuilder UseSwaggerConfig(this IApplicationBuilder app, IApiVersionDescriptionProvider provider)
         {
             app.UseSwagger();
-            app.UseSwaggerUI(options =>
-            {
-                foreach (ApiVersionDescription description in provider.ApiVersionDescriptions)
-                {
-                    options.SwaggerEndpoint($"/swagger/{description.GroupName}/swagger.json", description.GroupName.ToUpperInvariant());
-                }
-            });
+            app.UseSwaggerUI();
             return app;
         }
     }

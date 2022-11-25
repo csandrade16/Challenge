@@ -40,7 +40,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfitSharing.Service", "Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfitSharing.Api", "ProfitSharing.Api\ProfitSharing.Api.csproj", "{91AAB140-9956-4D07-8846-56797D6648CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTurim.Test", "EmployeeTurim.Test\EmployeeTurim.Test.csproj", "{D2358D22-524A-4210-8221-A8C9FEEC540D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeTurim.Test", "EmployeeTurim.Test\EmployeeTurim.Test.csproj", "{D2358D22-524A-4210-8221-A8C9FEEC540D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeTurim.Domain", "EmployeeTurim.Domain\EmployeeTurim.Domain.csproj", "{9EF43A44-BD4D-4DC0-96EC-3C7E8D5AB296}"
 EndProject
@@ -50,7 +50,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeTurim.Service", "Em
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Teste", "5 - Teste", "{A622F382-293D-4F9C-B5D8-1051046BC2DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2", "Test2\Test2.csproj", "{DECA65E8-B53E-4051-90D1-7DA9585D61EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test2", "Test2\Test2.csproj", "{DECA65E8-B53E-4051-90D1-7DA9585D61EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

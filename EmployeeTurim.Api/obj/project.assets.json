@@ -7499,18 +7499,18 @@
     },
     "EmployeeTurim.Domain/1.0.0": {
       "type": "project",
-      "path": "../Domain/EmployeeTurim.Domain.csproj",
-      "msbuildProject": "../Domain/EmployeeTurim.Domain.csproj"
+      "path": "../EmployeeTurim.Domain/EmployeeTurim.Domain.csproj",
+      "msbuildProject": "../EmployeeTurim.Domain/EmployeeTurim.Domain.csproj"
     },
     "EmployeeTurim.Repository/1.0.0": {
       "type": "project",
-      "path": "../Repository/EmployeeTurim.Repository.csproj",
-      "msbuildProject": "../Repository/EmployeeTurim.Repository.csproj"
+      "path": "../EmployeeTurim.Repository/EmployeeTurim.Repository.csproj",
+      "msbuildProject": "../EmployeeTurim.Repository/EmployeeTurim.Repository.csproj"
     },
     "EmployeeTurim.Service/1.0.0": {
       "type": "project",
-      "path": "../Service/EmployeeTurim.Service.csproj",
-      "msbuildProject": "../Service/EmployeeTurim.Service.csproj"
+      "path": "../EmployeeTurim.Service/EmployeeTurim.Service.csproj",
+      "msbuildProject": "../EmployeeTurim.Service/EmployeeTurim.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7560,14 +7560,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\dev\\Challenge\\Domain\\EmployeeTurim.Domain.csproj": {
-              "projectPath": "C:\\dev\\Challenge\\Domain\\EmployeeTurim.Domain.csproj"
-            },
             "C:\\dev\\Challenge\\EmployeeTurim.Domain\\EmployeeTurim.Domain.csproj": {
               "projectPath": "C:\\dev\\Challenge\\EmployeeTurim.Domain\\EmployeeTurim.Domain.csproj"
             },
-            "C:\\dev\\Challenge\\Service\\EmployeeTurim.Service.csproj": {
-              "projectPath": "C:\\dev\\Challenge\\Service\\EmployeeTurim.Service.csproj"
+            "C:\\dev\\Challenge\\EmployeeTurim.Service\\EmployeeTurim.Service.csproj": {
+              "projectPath": "C:\\dev\\Challenge\\EmployeeTurim.Service\\EmployeeTurim.Service.csproj"
             }
           }
         }
